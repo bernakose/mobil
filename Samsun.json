@@ -11,8 +11,48 @@
   }
   { 
       "isim": "Sevgi Gölü",
-      "aciklama":"fuar alanın yeniden düzenlenmesi ile muhteşem bir şekilde hazırlanan yapay Samsun Sevgi Gölü insanların yeni ve uğrak yerleri arasında yer alıyor. Muhteşem bir şekilde projelendirilen göl içinde kuğuların gezintilerini gözlemleyebilirsainiz.Tesisler ile oluşturulmuş özel mekanlarda yeme içme gibi ihtiyaçlarınızı rahat bir şekilde karşılayabilirsiniz. Sahil yoluna bağlanan bağlantıları sayesinde Doğu Park ve Batı Park arasında gezintilerinizi çok rahat ve keyifli şekilde gerçekleştirebilirsiniz",
+      "aciklama":"Fuar alanın yeniden düzenlenmesi ile muhteşem bir şekilde hazırlanan yapay Samsun Sevgi Gölü insanların yeni ve uğrak yerleri arasında yer alıyor. Muhteşem bir şekilde projelendirilen göl içinde kuğuların gezintilerini gözlemleyebilirsainiz.Tesisler ile oluşturulmuş özel mekanlarda yeme içme gibi ihtiyaçlarınızı rahat bir şekilde karşılayabilirsiniz. Sahil yoluna bağlanan bağlantıları sayesinde Doğu Park ve Batı Park arasında gezintilerinizi çok rahat ve keyifli şekilde gerçekleştirebilirsiniz",
       "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/sg.jpg"
+  }
+  { 
+      "isim": "Amisos Tepesi",
+      "aciklama":"Samsun il merkezi içerisinde Batı Park kısmında bulunan Teleferik ile çıkılabilen Amisos Tepesi muhteşem manzarası ile ziyaretçilerine hoş bir vakit geçirmek için ideal noktalardan bir tanesi. Deniz kenarına yakın bir noktadan bineceğiniz teleferik ile kısa bir yolculuk yapıp Atatürk Bulvarı üzerinden geçip Amisos Tepesine çıkabilmeniz mümkün.Bazı kaynaklarda ve tabelalarda Baruthane Tepesi olarak da adlandırılmıştır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/t.jpg"
+  }
+  { 
+      "isim": "Atakum Sahili",
+      "aciklama":"Kesintisiz kilometrelerce uzanan kumsalları, sahilde yer alan eğlence ve yeme-içme yerleri , bisiklet yolu ve yüzme havuzları gibi spor tesisleriyle Atakum Sahili Karadeniz'in gözbebeği konumundadır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/as.png"
+  }
+  { 
+      "isim": "Bafra Pidesi",
+      "aciklama":"Coğrafi işaret tesciline sahip lezzetler arasında yer alan Bafra pidesi, ince hamuru, gevrekliği, odun ateşinde pişirilişi, yapılışında kullanılan doğal tereyağı ve peyniri, özel olarak hazırlanan kıymalı harcıyla diğer pidelerden ayrılıyor.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bap.jpg"
+  }
+  { 
+      "isim": "Kuş Cenneti",
+      "aciklama":"Delta’da bulunan su basar ormanları (Galeriç) ilkbahar da tabanı tamamen suyla kaplanan yaprak döken ormanlardır. Kızılırmak Deltası UNESCO Dünya Kültür Mirası Geçici listesine girmiştir.Kızılırmak Deltası, Kızılırmak nehrinin taşıdığı alüvyonlar ile oluşan, ülkemizdeki en büyük deltalardan biridir.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/kc.jpg"
+  }
+  { 
+      "isim": "Çetinkaya Köprüsü",
+      "aciklama":"Samsun'un Bafra ilçesinde Kızılırmak Nehri üzerine inşa edilen, bir gelin alayının düşerek can verdiği ve bu dramatik hikayesine türkü yazılan (köprüden geçti gelin) Çetinkaya Köprüsü 82'nci yaşına girdi.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/gk.jpg"
+  }
+  { 
+      "isim": "Kapıkaya Festival Alanı",
+      "aciklama":"Çeşitli spor dallarını aynı ortamda sunarak ulusal ve uluslararası birçok sporcuyu ve doğa severleri her yıl temmuz ayında bir araya getirmeyi hedefleyen Kapıkayafest “Doğayı Yaşat Sporu Yaşa” sloganıyla sağlıklı bireylerle daha çok yaşana bilir bir dünya için sporun ve sporcunun önemini vurgulamak gayesini gütmektedir.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/kk.jpg"
+  }
+  { 
+      "isim": "Şahinkaya Kanyonu",
+      "aciklama":"Şahinkaya Kanyonu, Samsun'un Vezirköprü ilçesinde yer alan kanyon. Altınkaya Barajı'nın en derin noktasını oluşturan ve Ulubey Kanyonu'nun ardından Türkiye'nin ikinci büyük kanyonu olan Şahinkaya Kanyonu yaklaşık 1500 metre uzunluğunda olup 2012 yılında ulusal turizm bölgesi ilan edilmiş ve 2015'te de tabiat parkı yapılmıştır.Samsun'un turizm noktalarından biri olan ve Samsunum-3 gemisi ile gezinti yapılabilen kanyon aynı zamanda Türkiye'nin ilk ekstrem sporlar festivali olan Falcon Fest'e ev sahipliği yapmaktadır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/sk.jpg"
+  }
+  { 
+      "isim": "Batık Minare",
+      "aciklama":"Devlet Su İşleri tarafından 1984 ile 1990 yılları arasında Kızılırmak üzerine Derbent Barajı'nın kurulmasıyla Bafra ilçesi Boğazkaya Mahallesi'ndeki 200 civarındaki yapı sular altında kalmıştı. Eski yerleşim alanından su üstünde kalan tek yapı, caminin yıkılmayan minaresidir. Safari turu ve olta balıkçılığının yapıldığı bölge, fotoğraf tutkunları için de gözde bir yer konumundadır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bm.png"
   }
 
 ]}

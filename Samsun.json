@@ -1,12 +1,18 @@
 {"samsun" :[
-  { "isim": "Batı Park",
-  "aciklama":"Tarihi kaynaklara göre M.Ö. 1200'lü yıllarda Amazon Kadınları Samsun'un Terme ilçesinde yaşadı. Sadece kadınlardan oluşan bu toplulukta erkekler ise sadece soyların devamı için kullanılıyordu. Amazon Kadınları doğan erkek çocuklarını ise ya köle olarak kullanıyorlar yada öldürüyorlardı. Onlar için sadece kız çocukları değerliydi.",
-  "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bp.png"
+  { 
+      "isim": "Batı Park",
+      "aciklama":"Tarihi kaynaklara göre M.Ö. 1200'lü yıllarda Amazon Kadınları Samsun'un Terme ilçesinde yaşadı. Sadece kadınlardan oluşan bu toplulukta erkekler ise sadece soyların devamı için kullanılıyordu. Amazon Kadınları doğan erkek çocuklarını ise ya köle olarak kullanıyorlar yada öldürüyorlardı. Onlar için sadece kız çocukları değerliydi.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bp.jpg" 
   }
-  { "isim": "Bandırma Vapuru",
-  "aciklama":"Gemi içindeki kamarada Mustafa Kemal Paşa ve dört silah arkadaşının balmumu heykelleri bulunmaktadır. 1878 yılında imal edilmiş duvar saati, telefon, harita ölçüm malzemeleri, yangın tüpü, masa ve sandalyeler, burada sergilenen diğer eserlerdir. 35.000 metre kare alana kurulmuş olan Milli Mücadele Parkı ve Açık Hava Müzesi bünyesinde; Çanakkale Savaşı'ndan düşmanın İzmir'de denize dökülüşüne kadar süren zorlu mücadeleyi simgeleyen seramik rölyefler, Samsun ve ilçelerinden İstiklal Savaşı'nda kaybettiğimiz 1.200 şehidimizin adlarının yer aldığı şehitler yazıtı, Milli Mücadele'yi anlatan 10 adet bronz rölyef,yedi figürlü Milli Kurtuluş Anıtı ve İstiklal Mücadelesi'nde kahraman Mehmetçik tarafından kullanılan top, tüfek, torpido, denizaltı mayınları ve uçaksavar gibi savaş malzemeleri bulunmaktadır",
-  "fotourl" : ""
-}
-]
+  { 
+      "isim": "Bandırma Vapuru",
+      "aciklama":"Gemi içindeki kamarada Mustafa Kemal Paşa ve dört silah arkadaşının balmumu heykelleri bulunmaktadır. 1878 yılında imal edilmiş duvar saati, telefon, harita ölçüm malzemeleri, yangın tüpü, masa ve sandalyeler, burada sergilenen diğer eserlerdir. 35.000 metre kare alana kurulmuş olan Milli Mücadele Parkı ve Açık Hava Müzesi bünyesinde; Çanakkale Savaşı'ndan düşmanın İzmir'de denize dökülüşüne kadar süren zorlu mücadeleyi simgeleyen seramik rölyefler, Samsun ve ilçelerinden İstiklal Savaşı'nda kaybettiğimiz 1.200 şehidimizin adlarının yer aldığı şehitler yazıtı, Milli Mücadele'yi anlatan 10 adet bronz rölyef,yedi figürlü Milli Kurtuluş Anıtı ve İstiklal Mücadelesi'nde kahraman Mehmetçik tarafından kullanılan top, tüfek, torpido, denizaltı mayınları ve uçaksavar gibi savaş malzemeleri bulunmaktadır",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bv.jpg"
+  }
+  { 
+      "isim": "Sevgi Gölü",
+      "aciklama":"fuar alanın yeniden düzenlenmesi ile muhteşem bir şekilde hazırlanan yapay Samsun Sevgi Gölü insanların yeni ve uğrak yerleri arasında yer alıyor. Muhteşem bir şekilde projelendirilen göl içinde kuğuların gezintilerini gözlemleyebilirsainiz.Tesisler ile oluşturulmuş özel mekanlarda yeme içme gibi ihtiyaçlarınızı rahat bir şekilde karşılayabilirsiniz. Sahil yoluna bağlanan bağlantıları sayesinde Doğu Park ve Batı Park arasında gezintilerinizi çok rahat ve keyifli şekilde gerçekleştirebilirsiniz",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/sg.jpg"
+  }
 
-}
+]}

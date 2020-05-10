@@ -1,4 +1,5 @@
-{ 
+[
+  { 
       "isim": "Batı Park",
       "aciklama":"Tarihi kaynaklara göre M.Ö. 1200'lü yıllarda Amazon Kadınları Samsun'un Terme ilçesinde yaşadı. Sadece kadınlardan oluşan bu toplulukta erkekler ise sadece soyların devamı için kullanılıyordu. Amazon Kadınları doğan erkek çocuklarını ise ya köle olarak kullanıyorlar yada öldürüyorlardı. Onlar için sadece kız çocukları değerliydi.",
       "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bp.jpg" 
@@ -38,3 +39,4 @@
       "aciklama":"Şahinkaya Kanyonu, Samsun'un Vezirköprü ilçesinde yer alan kanyon. Altınkaya Barajı'nın en derin noktasını oluşturan ve Ulubey Kanyonu'nun ardından Türkiye'nin ikinci büyük kanyonu olan Şahinkaya Kanyonu yaklaşık 1500 metre uzunluğunda olup 2012 yılında ulusal turizm bölgesi ilan edilmiş ve 2015'te de tabiat parkı yapılmıştır.Samsun'un turizm noktalarından biri olan ve Samsunum-3 gemisi ile gezinti yapılabilen kanyon aynı zamanda Türkiye'nin ilk ekstrem sporlar festivali olan Falcon Fest'e ev sahipliği yapmaktadır.",
       "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/sk.jpg"
   }
+]

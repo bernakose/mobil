@@ -1,0 +1,40 @@
+{ 
+      "isim": "Batı Park",
+      "aciklama":"Tarihi kaynaklara göre M.Ö. 1200'lü yıllarda Amazon Kadınları Samsun'un Terme ilçesinde yaşadı. Sadece kadınlardan oluşan bu toplulukta erkekler ise sadece soyların devamı için kullanılıyordu. Amazon Kadınları doğan erkek çocuklarını ise ya köle olarak kullanıyorlar yada öldürüyorlardı. Onlar için sadece kız çocukları değerliydi.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bp.jpg" 
+  },
+  { 
+      "isim": "Bandırma Vapuru",
+      "aciklama":"Gemi içindeki kamarada Mustafa Kemal Paşa ve dört silah arkadaşının balmumu heykelleri bulunmaktadır. 1878 yılında imal edilmiş duvar saati, telefon, harita ölçüm malzemeleri, yangın tüpü, masa ve sandalyeler, burada sergilenen diğer eserlerdir. 35.000 metre kare alana kurulmuş olan Milli Mücadele Parkı ve Açık Hava Müzesi bünyesinde; Çanakkale Savaşı'ndan düşmanın İzmir'de denize dökülüşüne kadar süren zorlu mücadeleyi simgeleyen seramik rölyefler, Samsun ve ilçelerinden İstiklal Savaşı'nda kaybettiğimiz 1.200 şehidimizin adlarının yer aldığı şehitler yazıtı, Milli Mücadele'yi anlatan 10 adet bronz rölyef,yedi figürlü Milli Kurtuluş Anıtı ve İstiklal Mücadelesi'nde kahraman Mehmetçik tarafından kullanılan top, tüfek, torpido, denizaltı mayınları ve uçaksavar gibi savaş malzemeleri bulunmaktadır",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bv.jpg"
+  },
+  { 
+      "isim": "Amisos Tepesi",
+      "aciklama":"Samsun il merkezi içerisinde Batı Park kısmında bulunan Teleferik ile çıkılabilen Amisos Tepesi muhteşem manzarası ile ziyaretçilerine hoş bir vakit geçirmek için ideal noktalardan bir tanesi. Deniz kenarına yakın bir noktadan bineceğiniz teleferik ile kısa bir yolculuk yapıp Atatürk Bulvarı üzerinden geçip Amisos Tepesine çıkabilmeniz mümkün.Bazı kaynaklarda ve tabelalarda Baruthane Tepesi olarak da adlandırılmıştır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/t.jpg"
+  },
+  { 
+      "isim": "Atakum Sahili",
+      "aciklama":"Kesintisiz kilometrelerce uzanan kumsalları, sahilde yer alan eğlence ve yeme-içme yerleri , bisiklet yolu ve yüzme havuzları gibi spor tesisleriyle Atakum Sahili Karadeniz'in gözbebeği konumundadır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/as.png"
+  },
+  { 
+      "isim": "Bafra Pidesi",
+      "aciklama":"Coğrafi işaret tesciline sahip lezzetler arasında yer alan Bafra pidesi, ince hamuru, gevrekliği, odun ateşinde pişirilişi, yapılışında kullanılan doğal tereyağı ve peyniri, özel olarak hazırlanan kıymalı harcıyla diğer pidelerden ayrılıyor.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/bap.jpg"
+  },
+  { 
+      "isim": "Çetinkaya Köprüsü",
+      "aciklama":"Samsun'un Bafra ilçesinde Kızılırmak Nehri üzerine inşa edilen, bir gelin alayının düşerek can verdiği ve bu dramatik hikayesine türkü yazılan (köprüden geçti gelin) Çetinkaya Köprüsü 82'nci yaşına girdi.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/gk.jpg"
+  },
+  { 
+      "isim": "Kapıkaya Festival Alanı",
+      "aciklama":"Çeşitli spor dallarını aynı ortamda sunarak ulusal ve uluslararası birçok sporcuyu ve doğa severleri her yıl temmuz ayında bir araya getirmeyi hedefleyen Kapıkayafest “Doğayı Yaşat Sporu Yaşa” sloganıyla sağlıklı bireylerle daha çok yaşana bilir bir dünya için sporun ve sporcunun önemini vurgulamak gayesini gütmektedir.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/kk.jpg"
+  },
+  { 
+      "isim": "Şahinkaya Kanyonu",
+      "aciklama":"Şahinkaya Kanyonu, Samsun'un Vezirköprü ilçesinde yer alan kanyon. Altınkaya Barajı'nın en derin noktasını oluşturan ve Ulubey Kanyonu'nun ardından Türkiye'nin ikinci büyük kanyonu olan Şahinkaya Kanyonu yaklaşık 1500 metre uzunluğunda olup 2012 yılında ulusal turizm bölgesi ilan edilmiş ve 2015'te de tabiat parkı yapılmıştır.Samsun'un turizm noktalarından biri olan ve Samsunum-3 gemisi ile gezinti yapılabilen kanyon aynı zamanda Türkiye'nin ilk ekstrem sporlar festivali olan Falcon Fest'e ev sahipliği yapmaktadır.",
+      "fotourl" : "https://raw.githubusercontent.com/bernakose/ceng/master/sk.jpg"
+  }
